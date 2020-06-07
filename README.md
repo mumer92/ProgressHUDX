@@ -1,4 +1,18 @@
 <img src="https://relatedcode.com/github/progresshud13_01.gif" width="83">
+<img src="https://relatedcode.com/github/progresshud13_02.gif" width="83">
+<img src="https://relatedcode.com/github/progresshud13_03.gif" width="83">
+<img src="https://relatedcode.com/github/progresshud13_04.gif" width="83">
+<img src="https://relatedcode.com/github/progresshud13_05.gif" width="83">
+<img src="https://relatedcode.com/github/progresshud13_06.gif" width="83">
+<img src="https://relatedcode.com/github/progresshud13_07.gif" width="83">
+<img src="https://relatedcode.com/github/progresshud13_08.gif" width="83">
+<img src="https://relatedcode.com/github/progresshud13_09.gif" width="83">
+<img src="https://relatedcode.com/github/progresshud13_10.gif" width="83">
+<img src="https://relatedcode.com/github/progresshud13_11.gif" width="83">
+<img src="https://relatedcode.com/github/progresshud13_12.gif" width="83">
+<img src="https://relatedcode.com/github/progresshud13_13.gif" width="83">
+<img src="https://relatedcode.com/github/progresshud13_14.gif" width="83">
+<img src="https://relatedcode.com/github/progresshud13_15.gif" width="83">
 
 ## WHAT'S NEW IN 13.0
 
