@@ -1,6 +1,4 @@
-<img src="https://relatedcode.com/github/progresshud13_01.gif" width="83">
-<img src="https://relatedcode.com/github/progresshud13_02.gif" width="83">
-<img src="https://relatedcode.com/github/progresshud13_03.gif" width="83">
+<img src="https://relatedcode.com/github/progresshud13_01.gif" width="83"> <img src="https://relatedcode.com/github/progresshud13_02.gif" width="83"> <img src="https://relatedcode.com/github/progresshud13_03.gif" width="83">
 <img src="https://relatedcode.com/github/progresshud13_04.gif" width="83">
 <img src="https://relatedcode.com/github/progresshud13_05.gif" width="83">
 <img src="https://relatedcode.com/github/progresshud13_06.gif" width="83">
