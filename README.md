@@ -1,3 +1,5 @@
+<img src="https://relatedcode.com/github/progresshud13_01.gif" width="83">
+
 ## WHAT'S NEW IN 13.0
 
 - New features + complete Swift refactoring.
